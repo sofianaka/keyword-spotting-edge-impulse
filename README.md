@@ -50,7 +50,7 @@ O objetivo é reconhecer comandos de voz em português:
 
 ## 🔗 Projeto no Edge Impulse
 
-https://studio.edgeimpulse.com/public/948415/live
+[Acessar projeto no Edge Impulse](https://studio.edgeimpulse.com/public/948415/live)
 
 
 
